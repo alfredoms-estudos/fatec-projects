@@ -1,0 +1,33 @@
+{% extends "form.jinja2" %}
+
+{% block content %}
+<div class="content">
+    <h3>Lista de Usuários</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Endereço</th>
+                <th scope="col">Telefone</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        {% for user in users %}
+        <tr>
+            <td class="c1">{{ user[0] }}</td>
+            <td class="c2">{{ user[1] }}</td>
+            <td class="c3">{{ user[2] }}</td>
+            <td class="c4">{{ user[3] }}</td>
+            <td class="c5"><button type="button" class="btn btn-primary btn-sm" onclick="excluir({{ user[0] }})">Excluir</button></td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+<script>
+    function excluir(id){
+        url = 'http://localhost:6543/remove?id='+id;
+        window.location.href = url;
+    }
+</script>
+{% endblock content %}

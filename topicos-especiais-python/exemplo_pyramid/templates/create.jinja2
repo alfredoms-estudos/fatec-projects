@@ -1,0 +1,44 @@
+{% extends "form.jinja2" %}
+
+{% block content %}
+<div class="content">
+    <h3>Criação de Usuário</h3>
+    <form name="usuario">
+        <div class="row">
+            <div class="form-group col-sm-10">
+                <label for="usr">Nome:</label>
+                <input type="text" class="form-control" id="nome" name="nome" maxlenght="100">
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-sm-10">
+                <label for="pwd">Endereço:</label>
+                <input type="text" class="form-control" id="endereco" name="endereco" maxlenght="200">
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-sm-5">
+                <label for="pwd">Telefone:</label>
+                <input type="number" class="form-control" id="telefone" name="telefone" maxlenght="15">
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-sm-10">
+                <button type="button" class="btn btn-primary" onclick="cadastrar()">Cadastrar</button>
+            </div>
+        </div>
+    </form>
+</div>
+<script>
+    function cadastrar(){
+        nome = document.forms['usuario']['nome'].value;
+        endereco = document.forms['usuario']['endereco'].value;
+        telefone = document.forms['usuario']['telefone'].value;
+        url = 'http://localhost:6543/insert?';
+        url += 'nome='+nome;
+        url += '&endereco='+endereco;
+        url += '&telefone='+telefone;
+        window.location.href = url;
+    }
+</script>
+{% endblock content %}

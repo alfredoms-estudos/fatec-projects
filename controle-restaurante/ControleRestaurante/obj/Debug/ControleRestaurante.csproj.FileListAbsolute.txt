@@ -1,0 +1,144 @@
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+D:\working_files\fatec\4º ciclo\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.AdicionaItens.resources
+C:\Users\ANDRE\Downloads\proj_ENG3_v4\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Fechar_Pedido.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.AdicionaItens.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Fechar_Pedido.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+C:\Users\alfma\Downloads\proj_ENG3_v6\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.AdicionaItens.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Fechar_Pedido.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+C:\Users\alfma\Downloads\proj_ENG3_v7\Engenharia de Software 3\app\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.AdicionaItens.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Fechar_Pedido.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+C:\Users\ANDRE\Desktop\ControleRestaurante_v9\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.AdicionaItens.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Fechar_Pedido.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+C:\Users\ANDRE\Desktop\Projeto\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe.config
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.exe
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.exe
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\ControleRestaurante.pdb
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.dll
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\Npgsql.xml
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.AdicionaItens.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Fechar_Pedido.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.base_src.Pedidos.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Clientes.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Garcons.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Itens.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Login.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Mesas.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.Properties.Resources.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.TelaPrincipal.resources
+C:\Users\alfma\Desktop\Aplicação\ControleRestaurante\ControleRestaurante\obj\Debug\ControleRestaurante.csproj.GenerateResource.Cache
